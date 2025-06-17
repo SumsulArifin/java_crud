@@ -51,7 +51,4 @@ public class Product {
 
     @Version // For optimistic locking
     private Long version;
-
-//    public boolean isPresent() {
-//    }
 }
